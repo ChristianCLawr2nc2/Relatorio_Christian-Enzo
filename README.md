@@ -3,13 +3,12 @@
 
 
 ## 1. Introdução  
-O objetivo desse exercicio é a reimaginação do jogo primordial para os games o PONG, assim, desenvolver habilidades de crição e imaginação para o desenvolvimento de algo como Pong porém diferente e novo, algo mais moderno mas sem perder a essência do original,
-*Descreva brevemente o objetivo da atividade, mencionando a proposta de reinvenção do jogo Pong e a abordagem escolhida pela dupla.*
+*O objetivo desse exercicio é a reimaginação do jogo primordial para os games o PONG, assim, desenvolver habilidades de crição e imaginação para o desenvolvimento de algo como Pong porém diferente e novo, algo mais moderno mas sem perder a essência do original, sendo assim escolhemos reinventa-lo no formato onde é possivel localmente se jogar multiplayer.*
  
 ---
 
 ## 2. Pesquisa e Análise Inicial
-*O jogo **Pong** tem como característica principal e básica a simplicidade de comandos onde na tela há apenas uma sequência de quadrados que forma uma linha dividindo a tela, um quadrado que se comporta como uma bola e dois retângulos que ajem como raquetes tentando bater a bola para o outro lado com o objetivo de marcar pontos, caso o adversario não consiga mandar a bola de volta. Sendo assim o motivo do **Pong** ser tão envolvente é que a facilidade de seus comandos está em perfeito equilibrio com o sistema de dificultação do jogo que consiste em aumentar a velocidade da bolinha toda vez que ela encostar na raquete tornando ele divertido.
+*O jogo **Pong** tem como característica principal e básica a simplicidade de comandos onde na tela há apenas uma sequência de quadrados que forma uma linha dividindo a tela, um quadrado que se comporta como uma bola e dois retângulos que ajem como raquetes tentando bater a bola para o outro lado com o objetivo de marcar pontos, caso o adversario não consiga mandar a bola de volta. Sendo assim o motivo do **Pong** ser tão envolvente é que a facilidade de seus comandos está em perfeito equilibrio com o sistema de dificultação do jogo que consiste em aumentar a velocidade da bolinha toda vez que ela encostar na raquete tornando ele divertido.*
 
 ---
 
