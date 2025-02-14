@@ -54,7 +54,7 @@ O objetivo desse exercicio é a reimaginação do jogo primordial para os games 
 
 1. Quais foram os maiores desafios enfrentados durante o processo de criação?
 
-    *Um dos maiores desafios foi a digitalizar a iideia representada no papel
+    *Um dos maiores desafios foi a digitalizar a iideia representada no papel*
 
 2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?
 
