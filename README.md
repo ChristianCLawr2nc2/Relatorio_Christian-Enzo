@@ -43,16 +43,22 @@ O objetivo desse exercicio é a reimaginação do jogo primordial para os games 
 ## 5. Reflexão e Aprendizados - Christian de Carvalho Lawrence
 
 1. Quais foram os maiores desafios enfrentados durante o processo de criação?
+
    *Os maiores desafios enfrentados foram como decidir as cores que seriam usadas e a como mostrar de forma clara, concisa e concreta a ideia.*
+
 2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?
+
    *As habilidades foram a Capacidade de explicar uma ideia e concretizá-la.*
    
 ## 5. Reflexão e Aprendizados - Enzo Rezende
 
 1. Quais foram os maiores desafios enfrentados durante o processo de criação?
-   *Um dos maiores desafios foi a digitalizar a iideia representada no papel
-3. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?
-   *A habildade desenvolvida foi a de representar a ideia no meio digital.*
+
+    *Um dos maiores desafios foi a digitalizar a iideia representada no papel
+
+2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?
+
+    *A habildade desenvolvida foi a de representar a ideia no meio digital.*
    
 ---
 
